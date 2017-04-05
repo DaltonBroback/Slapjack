@@ -1,5 +1,5 @@
---temp-output:/Users/dalton/Desktop/DojoAssignments/netCore/cards/obj/Debug/netcoreapp1.0/
---out:/Users/dalton/Desktop/DojoAssignments/netCore/cards/bin/Debug/netcoreapp1.0/cards.dll
+--temp-output:/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/obj/Debug/netcoreapp1.0/
+--out:/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/bin/Debug/netcoreapp1.0/cards.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -87,7 +87,8 @@
 --reference:/Users/dalton/.nuget/packages/System.Threading.Timer/4.0.1/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/Users/dalton/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/Users/dalton/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll
-/Users/dalton/Desktop/DojoAssignments/netCore/cards/Card.cs
-/Users/dalton/Desktop/DojoAssignments/netCore/cards/Deck.cs
-/Users/dalton/Desktop/DojoAssignments/netCore/cards/Player.cs
-/Users/dalton/Desktop/DojoAssignments/netCore/cards/Program.cs
+/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/Card.cs
+/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/Deck.cs
+/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/Player.cs
+/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/Program.cs
+/Users/dalton/Desktop/DojoAssignments/Python/Card_Hackathon/Slapjack/cards/Stack.cs
